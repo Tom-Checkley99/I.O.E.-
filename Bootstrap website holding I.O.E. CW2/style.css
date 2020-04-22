@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100;
+}
+
+body {
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+
+}
+
+canvas {
+  display: block;
+  position: relative;
+  text-align: center;
+  margin-left: 390px;
+}
+
+h1 {
+
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline
+  ;
+}
+
+p {
+  text-align: center;
+}
+
